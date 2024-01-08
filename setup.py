@@ -10,6 +10,7 @@ install_requires = [
     'scipy',
     'scikit-image',
     'matplotlib',
+    'opencv-python',
 ]
 
 setup(
